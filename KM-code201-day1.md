@@ -1,5 +1,5 @@
                  # KM code 201 day 1
-===============================================================================
+================================================================================
 Today we learned about about a lot of things i already knew but more importantly
 things i did not. One of the problems i had when i was teaching myself how to
 code was the fact that there were all these small things that i didn't know but
@@ -13,6 +13,6 @@ the new things i learned were
 4. shortcuts like (cdm k), (cmd s), (cmd r) etc.
 
 The thing i most enjoy about the class so far is that i feel like having all
-this practical work makes it easier to get use ro using all the new features
+this practical work makes it easier to get use to using all the new features
 we have learned.
-===============================================================================
+================================================================================
